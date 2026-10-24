@@ -19,6 +19,9 @@ screenshots/
 # Visual Studio / .NET build artifacts
 bin/
 obj/
+publish/
+release/
+*.zip
 *.user
 *.suo
 *.userosscache
