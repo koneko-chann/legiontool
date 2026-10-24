@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Screenshots and media
+screenshots/
+*.png
+*.jpg
+*.jpeg
+*.mp4
+
+# Sensitive proxy and data files
+*proxy*.txt
+*proxies*.txt
+*.env
+*.json
+
+# Visual Studio / .NET build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+[Bb]in/
+[Oo]bj/
+
+# OS generated files
+.DS_Store
+ehthumbs.db
+Thumbs.db
